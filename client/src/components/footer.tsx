@@ -12,7 +12,7 @@ export default function Footer() {
   const socialLinks = [
   
     { icon: SiLinkedin, url: 'https://www.linkedin.com/company/108076189/admin/dashboard/' },
-    { icon: SiFacebook, url: 'https://facebook.com' },
+    { icon: SiFacebook, url: '' },
     { icon: SiInstagram, url: 'https://www.instagram.com/techsol_institute/?hl=en' },
   ];
 
